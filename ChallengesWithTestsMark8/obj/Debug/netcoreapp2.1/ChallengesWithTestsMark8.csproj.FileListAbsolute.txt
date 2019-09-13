@@ -36,9 +36,9 @@ C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithT
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
-C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\Don Thomason\Desktop\Repos\weeklychallenges-DThomason20\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
