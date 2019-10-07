@@ -6,7 +6,7 @@ namespace ChallengesWithTestsMark8
     {
         public int AddEvenSubtractOdd(int[] numbers)
         {
-            throw new NotImplementedException();
+            ;
         }
 
         public int GetLengthOfShortestString(string str1, string str2, string str3, string str4)
@@ -46,7 +46,15 @@ namespace ChallengesWithTestsMark8
 
         public int Factorial(int number)
         {
-            throw new NotImplementedException();
+            int numberInt = int.Parse(factorialNumberTextBox.Text);
+            int result = numberInt;
+
+            for (int i = 1; i < numberInt; i++)
+            {
+                result = result * i;
+            }
+
+            factorialAnswerTextBox.Text = result.ToString();
         }
     }
 }
