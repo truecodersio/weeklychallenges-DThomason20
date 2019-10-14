@@ -25,6 +25,8 @@ namespace ChallengesWithTestsMark8
         {
             if (numbers == null)
                 return false;
+            if (numbers.Length == 0)
+                return false;
 
             for (int i = 1; i < numbers.Length; i++)
             {
@@ -40,6 +42,10 @@ namespace ChallengesWithTestsMark8
         public int SumElementsThatFollowAnEven(int[] numbers)
         {
             int sum = 0;
+            if (numbers == null)
+            {
+                return 0;
+            }
 
             for (int i = 1; i < numbers.Length; i++)
             {
@@ -82,7 +88,13 @@ namespace ChallengesWithTestsMark8
         public double[] GetEveryFourthElement(List<double> elements)
         {
             List<double> everyFourth = new List<double>();
+            double[] empty = new double [0];
 
+            if (elements == null)
+            {
+                return empty;
+            }
+                        
             for (int i = 3; i < elements.Count; i += 4)
             {
                 everyFourth.Add(elements[i]);
